@@ -34,7 +34,7 @@ $('#new').click(function() {
   $('.modal').css('display', 'block')
 })
 
-$('#close').click(function() {
+$('#newCancel').click(function() {
   $('.modal').css('display', 'none')
 })
 
